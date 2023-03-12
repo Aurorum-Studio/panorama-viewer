@@ -1,3 +1,6 @@
+Unofficial Fork, Planned to use as an embed to Hhilan.com.
+Still on Construction.
+
 # Photo Sphere Viewer
 
 Photo Sphere Viewer is a JavaScript library that allows you to display 360×180 degrees panoramas on any web page. Panoramas must use the equirectangular projection and they can be taken with Photo Sphere, the camera mode brought by Android 4.2 Jelly Bean.
